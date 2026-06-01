@@ -1,7 +1,4 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=7C6DFA&height=200&section=header&text=Binary%20Brain&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=DSA%20%26%20CP%20Daily%20Grind%20%E2%80%94%20Java&descAlignY=58&descAlign=50&animation=fadeIn" width="100%"/>
-
 <br/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=7C6DFA&center=true&vCenter=true&multiline=true&width=700&height=80&lines=Niladri+Santra+%7C+@Niladri035;DSA+%26+CP+%E2%80%94+Basics+to+Deep+%7C+Java+%F0%9F%94%A5;One+commit+a+day.+Every+day.+No+excuses.)](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-)
