@@ -75,6 +75,7 @@ Output : [9, 1]
  * Time : O(n)  — single pass through the array
  * Space: O(1)  — only two extra variables used
  */
+import java.util.Arrays;
 public class FindMaxMin {
 
     public static int[] findMaxMin(int[] myList) {
