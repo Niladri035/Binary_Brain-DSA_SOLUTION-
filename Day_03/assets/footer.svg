@@ -1,0 +1,20 @@
+<svg width="720" height="80" viewBox="0 0 720 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0f0c29"/>
+      <stop offset="100%" style="stop-color:#302b63"/>
+    </linearGradient>
+    <style>
+      .footer-dot{animation:blink 1.5s ease-in-out infinite alternate}
+      .footer-dot:nth-child(2){animation-delay:0.3s}
+      .footer-dot:nth-child(3){animation-delay:0.6s}
+      @keyframes blink{from{opacity:0.3}to{opacity:1}}
+    </style>
+  </defs>
+  <rect width="720" height="80" fill="url(#footGrad)" rx="12"/>
+  <circle class="footer-dot" cx="280" cy="40" r="5" fill="#7c3aed"/>
+  <circle class="footer-dot" cx="360" cy="40" r="5" fill="#a78bfa"/>
+  <circle class="footer-dot" cx="440" cy="40" r="5" fill="#7c3aed"/>
+  <text x="360" y="25" text-anchor="middle" fill="#6b7280" font-family="monospace" font-size="10">Made with &#10084;&#65039; while learning DSA</text>
+  <text x="360" y="65" text-anchor="middle" fill="#4b5563" font-family="monospace" font-size="9">LinkedList &#183; Java &#183; Data Structures &amp; Algorithms</text>
+</svg>

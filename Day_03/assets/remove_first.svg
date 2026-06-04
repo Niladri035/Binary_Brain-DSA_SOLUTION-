@@ -1,0 +1,43 @@
+<svg width="680" height="150" viewBox="0 0 680 150" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="rf1" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7f1d1d"/>
+      <stop offset="100%" style="stop-color:#991b1b"/>
+    </linearGradient>
+    <linearGradient id="rf2" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="100%" style="stop-color:#312e81"/>
+    </linearGradient>
+    <marker id="arrowH" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#10b981"/>
+    </marker>
+  </defs>
+  <rect width="680" height="150" fill="#080d1a" rx="14"/>
+  <text x="340" y="22" text-anchor="middle" fill="#fca5a5" font-family="monospace" font-size="12" font-weight="bold">REMOVE FIRST &#8212; Head moves to next node</text>
+  <g>
+    <rect x="20" y="45" width="110" height="55" rx="10" fill="url(#rf1)" stroke="#ef4444" stroke-width="2"/>
+    <line x1="75" y1="45" x2="75" y2="100" stroke="#ef4444" stroke-width="1"/>
+    <text x="47" y="70" text-anchor="middle" fill="#fca5a5" font-family="monospace" font-size="9">data</text>
+    <text x="47" y="90" text-anchor="middle" fill="#fca5a5" font-family="monospace" font-size="18" font-weight="bold">10</text>
+    <text x="97" y="82" text-anchor="middle" fill="#6b7280" font-family="monospace" font-size="10">&#8594;</text>
+  </g>
+  <text x="75" y="38" text-anchor="middle" fill="#ef4444" font-family="monospace" font-size="9">REMOVED</text>
+  <line x1="130" y1="72" x2="158" y2="72" stroke="#ef4444" stroke-width="1.5" stroke-dasharray="5"/>
+  <g>
+    <rect x="160" y="45" width="110" height="55" rx="10" fill="url(#rf2)" stroke="#10b981" stroke-width="2.5"/>
+    <line x1="215" y1="45" x2="215" y2="100" stroke="#10b981" stroke-width="1"/>
+    <text x="187" y="70" text-anchor="middle" fill="#d1fae5" font-family="monospace" font-size="9">data</text>
+    <text x="187" y="90" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="18" font-weight="bold">20</text>
+    <text x="237" y="82" text-anchor="middle" fill="#818cf8" font-family="monospace" font-size="11">&#8594;</text>
+  </g>
+  <text x="215" y="38" text-anchor="middle" fill="#10b981" font-family="monospace" font-size="9" font-weight="bold">NEW HEAD &#8593;</text>
+  <line x1="270" y1="72" x2="298" y2="72" stroke="#818cf8" stroke-width="2"/>
+  <g>
+    <rect x="300" y="45" width="110" height="55" rx="10" fill="url(#rf2)" stroke="#4f46e5" stroke-width="1.5"/>
+    <line x1="355" y1="45" x2="355" y2="100" stroke="#4f46e5" stroke-width="1"/>
+    <text x="327" y="70" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="9">data</text>
+    <text x="327" y="90" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="18" font-weight="bold">30</text>
+    <text x="377" y="82" text-anchor="middle" fill="#6b7280" font-family="monospace" font-size="10">null</text>
+  </g>
+  <text x="340" y="130" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="9">temp = head &#8594; head = head.next &#8594; temp.next = null &#8594; O(1) &#10003;</text>
+</svg>

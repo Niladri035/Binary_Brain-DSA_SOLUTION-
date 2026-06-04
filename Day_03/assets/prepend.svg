@@ -1,0 +1,63 @@
+<svg width="720" height="160" viewBox="0 0 720 160" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="newNodeG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#059669"/>
+      <stop offset="100%" style="stop-color:#047857"/>
+    </linearGradient>
+    <linearGradient id="existG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="100%" style="stop-color:#312e81"/>
+    </linearGradient>
+    <marker id="arrowG" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#10b981"/>
+    </marker>
+    <marker id="arrowP" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#818cf8"/>
+    </marker>
+    <style>
+      .newN{animation:slideFromLeft 0.8s cubic-bezier(0.34,1.56,0.64,1) forwards}
+      @keyframes slideFromLeft{from{opacity:1;transform:translateX(-80px)}to{opacity:1;transform:translateX(0)}}
+    </style>
+  </defs>
+  <rect width="720" height="160" fill="#080d1a" rx="14"/>
+  <text x="360" y="22" text-anchor="middle" fill="#6ee7b7" font-family="monospace" font-size="12" font-weight="bold">PREPEND(5) &#8212; New node inserted at front</text>
+  <g class="newN">
+    <text x="75" y="48" text-anchor="middle" fill="#10b981" font-family="monospace" font-size="10" font-weight="bold">NEW HEAD</text>
+    <rect x="20" y="55" width="110" height="55" rx="10" fill="url(#newNodeG)" stroke="#10b981" stroke-width="2"/>
+    <line x1="75" y1="55" x2="75" y2="110" stroke="#10b981" stroke-width="1"/>
+    <text x="47" y="80" text-anchor="middle" fill="#d1fae5" font-family="monospace" font-size="10">data</text>
+    <text x="47" y="98" text-anchor="middle" fill="white" font-family="monospace" font-size="18" font-weight="bold">5</text>
+    <text x="97" y="80" text-anchor="middle" fill="#d1fae5" font-family="monospace" font-size="10">next</text>
+    <text x="97" y="98" text-anchor="middle" fill="#6ee7b7" font-family="monospace" font-size="11">&#8594;</text>
+  </g>
+  <line x1="130" y1="82" x2="158" y2="82" stroke="#10b981" stroke-width="2.5" marker-end="url(#arrowG)"/>
+  <g>
+    <rect x="160" y="55" width="110" height="55" rx="10" fill="url(#existG)" stroke="#4f46e5" stroke-width="1.5"/>
+    <line x1="215" y1="55" x2="215" y2="110" stroke="#4f46e5" stroke-width="1"/>
+    <text x="187" y="80" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="10">data</text>
+    <text x="187" y="98" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="18" font-weight="bold">10</text>
+    <text x="237" y="80" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="10">next</text>
+    <text x="237" y="98" text-anchor="middle" fill="#818cf8" font-family="monospace" font-size="11">&#8594;</text>
+  </g>
+  <line x1="270" y1="82" x2="298" y2="82" stroke="#818cf8" stroke-width="2" marker-end="url(#arrowP)"/>
+  <g>
+    <rect x="300" y="55" width="110" height="55" rx="10" fill="url(#existG)" stroke="#4f46e5" stroke-width="1.5"/>
+    <line x1="355" y1="55" x2="355" y2="110" stroke="#4f46e5" stroke-width="1"/>
+    <text x="327" y="80" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="10">data</text>
+    <text x="327" y="98" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="18" font-weight="bold">20</text>
+    <text x="377" y="80" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="10">next</text>
+    <text x="377" y="98" text-anchor="middle" fill="#818cf8" font-family="monospace" font-size="11">&#8594;</text>
+  </g>
+  <line x1="410" y1="82" x2="438" y2="82" stroke="#818cf8" stroke-width="2" marker-end="url(#arrowP)"/>
+  <g>
+    <rect x="440" y="55" width="110" height="55" rx="10" fill="url(#existG)" stroke="#7c3aed" stroke-width="2"/>
+    <line x1="495" y1="55" x2="495" y2="110" stroke="#7c3aed" stroke-width="1"/>
+    <text x="467" y="80" text-anchor="middle" fill="#94a3b8" font-family="monospace" font-size="10">data</text>
+    <text x="467" y="98" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="18" font-weight="bold">30</text>
+    <text x="517" y="80" text-anchor="middle" fill="#6b7280" font-family="monospace" font-size="10">null</text>
+  </g>
+  <text x="590" y="75" fill="#6b7280" font-family="monospace" font-size="10">&#8592; TAIL</text>
+  <text x="75" y="130" text-anchor="middle" fill="#10b981" font-family="monospace" font-size="9">&#9312; newNode</text>
+  <text x="215" y="130" text-anchor="middle" fill="#a5b4fc" font-family="monospace" font-size="9">&#9313; old head</text>
+  <text x="360" y="148" text-anchor="middle" fill="#64748b" font-family="monospace" font-size="9">newNode.next = head &#8594; head = newNode &#8594; length++</text>
+</svg>

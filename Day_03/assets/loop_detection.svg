@@ -1,0 +1,54 @@
+<svg width="720" height="260" viewBox="0 0 720 260" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="loopG" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#1e1b4b"/>
+      <stop offset="100%" style="stop-color:#312e81"/>
+    </linearGradient>
+    <linearGradient id="loopN" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" style="stop-color:#7c2d12"/>
+      <stop offset="100%" style="stop-color:#9a3412"/>
+    </linearGradient>
+    <marker id="arrowLoop" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#818cf8"/>
+    </marker>
+    <marker id="arrowLoopR" markerWidth="8" markerHeight="8" refX="7" refY="4" orient="auto">
+      <polygon points="0 0, 8 4, 0 8" fill="#f97316"/>
+    </marker>
+    <style>
+      .loop-arc{animation:dash 3s linear infinite}
+      @keyframes dash{to{stroke-dashoffset:-100}}
+      .meet-flash{animation:flash 1s 1.5s ease infinite alternate}
+      @keyframes flash{from{opacity:0.5}to{opacity:1;filter:drop-shadow(0 0 8px #f97316)}}
+    </style>
+  </defs>
+  <rect width="720" height="260" fill="#080d1a" rx="14"/>
+  <text x="360" y="22" text-anchor="middle" fill="#fb923c" font-family="monospace" font-size="12" font-weight="bold">HAS LOOP &#8212; Floyd&#39;s Tortoise &amp; Hare Detection</text>
+  <rect x="20" y="60" width="90" height="50" rx="9" fill="url(#loopG)" stroke="#4f46e5" stroke-width="1.5"/>
+  <text x="65" y="89" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="16" font-weight="bold">10</text>
+  <text x="65" y="58" text-anchor="middle" fill="#a5b4fc" font-family="monospace" font-size="9">HEAD</text>
+  <line x1="110" y1="85" x2="133" y2="85" stroke="#818cf8" stroke-width="2" marker-end="url(#arrowLoop)"/>
+  <rect x="133" y="60" width="90" height="50" rx="9" fill="url(#loopG)" stroke="#4f46e5" stroke-width="1.5"/>
+  <text x="178" y="89" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="16" font-weight="bold">20</text>
+  <line x1="223" y1="85" x2="246" y2="85" stroke="#818cf8" stroke-width="2" marker-end="url(#arrowLoop)"/>
+  <rect x="246" y="60" width="90" height="50" rx="9" fill="url(#loopN)" stroke="#f97316" stroke-width="2.5"/>
+  <text x="291" y="78" text-anchor="middle" fill="#fed7aa" font-family="monospace" font-size="9">LOOP</text>
+  <text x="291" y="94" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="16" font-weight="bold">30</text>
+  <text x="291" y="58" text-anchor="middle" fill="#f97316" font-family="monospace" font-size="8">&#8592; ENTRY</text>
+  <line x1="336" y1="85" x2="359" y2="85" stroke="#818cf8" stroke-width="2" marker-end="url(#arrowLoop)"/>
+  <rect x="359" y="60" width="90" height="50" rx="9" fill="url(#loopG)" stroke="#4f46e5" stroke-width="1.5"/>
+  <text x="404" y="89" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="16" font-weight="bold">40</text>
+  <line x1="449" y1="85" x2="472" y2="85" stroke="#818cf8" stroke-width="2" marker-end="url(#arrowLoop)"/>
+  <g class="meet-flash">
+    <rect x="472" y="60" width="90" height="50" rx="9" fill="url(#loopN)" stroke="#f97316" stroke-width="3"/>
+    <text x="517" y="78" text-anchor="middle" fill="#fed7aa" font-family="monospace" font-size="9">MEET!</text>
+    <text x="517" y="94" text-anchor="middle" fill="#e2e8f0" font-family="monospace" font-size="16" font-weight="bold">50</text>
+  </g>
+  <path class="loop-arc" d="M 562 85 Q 620 180 291 140 Q 200 145 291 110" stroke="#f97316" stroke-width="2.5" fill="none" stroke-dasharray="15,8" marker-end="url(#arrowLoopR)"/>
+  <text x="500" y="175" text-anchor="middle" fill="#f97316" font-family="monospace" font-size="10">&#8617; cycle back to node 30</text>
+  <rect x="20" y="220" width="300" height="32" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <text x="30" y="233" fill="#fbbf24" font-family="monospace" font-size="9">&#128034; slow: one step at a time</text>
+  <text x="30" y="246" fill="#38bdf8" font-family="monospace" font-size="9">&#128007; fast: two steps at a time</text>
+  <rect x="340" y="220" width="360" height="32" rx="8" fill="#0f172a" stroke="#1e293b" stroke-width="1"/>
+  <text x="350" y="233" fill="#6ee7b7" font-family="monospace" font-size="9">If slow == fast &#8594; LOOP DETECTED &#10003;</text>
+  <text x="350" y="246" fill="#94a3b8" font-family="monospace" font-size="9">If fast reaches null &#8594; NO LOOP &#10007;</text>
+</svg>
