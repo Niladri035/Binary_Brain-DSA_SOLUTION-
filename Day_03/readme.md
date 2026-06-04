@@ -392,7 +392,64 @@ public boolean hasLoop() {
 
 ---
 
-## 📁 Project Structure
+## � Test Output
+
+Below is the complete test output demonstrating all LinkedList operations:
+
+```
+=== APPEND TEST ===
+List after appending (1-10): 1--->2--->3--->4--->5--->6--->7--->8--->9--->10--->null
+
+=== PREPEND TEST ===
+List after prepending (50->40->30->20->10): 10--->20--->30--->40--->50--->null
+
+=== GET TEST ===
+Original List: 
+10--->20--->30--->40--->50--->null
+Value at index 2: 30
+
+=== SET TEST ===
+List after setting index 1->100, index 3->200: 10--->100--->30--->200--->50--->null
+
+=== INSERT TEST ===
+Original List: 
+10--->20--->30--->40--->null
+List after inserting 15 at index 1, 25 at index 3: 10--->15--->20--->25--->30--->40--->null
+
+=== REMOVE TEST ===
+Original List: 
+10--->20--->30--->40--->50--->null
+List after removing index 2: 10--->20--->40--->50--->null
+
+=== REMOVE FIRST TEST ===
+Original List: 
+100--->200--->300--->400--->null
+List after removing first: 200--->300--->400--->null
+
+=== REMOVE LAST TEST ===
+Original List: 
+1--->2--->3--->4--->null
+List after removing last: 1--->2--->3--->null
+
+=== REVERSE TEST ===
+Original List: 
+1--->2--->3--->4--->5--->null
+List after reversing: 5--->4--->3--->2--->1--->null
+
+=== MIDDLE ELEMENT TEST ===
+Original List: 
+10--->20--->30--->40--->50--->60--->null
+Middle element: 40
+
+=== HAS LOOP TEST ===
+Original List: 
+1--->2--->3--->4--->null
+Has loop: false
+```
+
+---
+
+## �📁 Project Structure
 
 ```
 LinkedList-Java/
