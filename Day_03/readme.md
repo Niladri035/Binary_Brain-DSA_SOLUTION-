@@ -455,10 +455,8 @@ Has loop: false
 LinkedList-Java/
 │
 ├── assets/                    # SVG diagrams for README
-├── src/
-│   ├── Node.java              # Node building block
-│   ├── LinkedList.java        # Main LinkedList class
-│   └── Main.java              # Demo & test runner
+├── code/            
+│   ├── LinkedList.java     
 │
 └── README.md                  # This file ✨
 ```
