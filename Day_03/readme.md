@@ -113,17 +113,17 @@
       <polygon points="0 0, 10 3.5, 0 7" fill="#818cf8"/>
     </marker>
     <style>
-      .ll-node { animation: popIn 0.5s cubic-bezier(0.34,1.56,0.64,1) both; }
+      .ll-node { animation: popIn 0.5s cubic-bezier(0.34,1.56,0.64,1) forwards; }
       .ll-node:nth-child(1){animation-delay:0s}
       .ll-node:nth-child(2){animation-delay:0.15s}
       .ll-node:nth-child(3){animation-delay:0.3s}
       .ll-node:nth-child(4){animation-delay:0.45s}
-      @keyframes popIn{from{opacity:0;transform:scale(0.3)}to{opacity:1;transform:scale(1)}}
-      .ll-arrow{animation:slideArrow 0.4s ease-out both;}
+      @keyframes popIn{from{opacity:1;transform:scale(0.3)}to{opacity:1;transform:scale(1)}}
+      .ll-arrow{animation:slideArrow 0.4s ease-out forwards;}
       .ll-arrow:nth-child(1){animation-delay:0.25s}
       .ll-arrow:nth-child(2){animation-delay:0.4s}
       .ll-arrow:nth-child(3){animation-delay:0.55s}
-      @keyframes slideArrow{from{opacity:0;stroke-dashoffset:60}to{opacity:1;stroke-dashoffset:0}}
+      @keyframes slideArrow{from{opacity:1;stroke-dashoffset:30}to{opacity:1;stroke-dashoffset:0}}
     </style>
   </defs>
   <rect width="820" height="120" fill="#0f0a1e" rx="14"/>
@@ -285,10 +285,10 @@ Insert a new node **before** the current head. The new node becomes the new head
       <polygon points="0 0, 8 4, 0 8" fill="#818cf8"/>
     </marker>
     <style>
-      .newN{animation:slideFromLeft 0.8s cubic-bezier(0.34,1.56,0.64,1) both}
-      @keyframes slideFromLeft{from{opacity:0;transform:translateX(-80px)}to{opacity:1;transform:translateX(0)}}
-      .newArr{animation:fadeArr 0.5s 0.9s ease both}
-      @keyframes fadeArr{from{opacity:0}to{opacity:1}}
+      .newN{animation:slideFromLeft 0.8s cubic-bezier(0.34,1.56,0.64,1) forwards}
+      @keyframes slideFromLeft{from{opacity:1;transform:translateX(-80px)}to{opacity:1;transform:translateX(0)}}
+      .newArr{animation:fadeArr 0.5s ease forwards}
+      @keyframes fadeArr{from{opacity:1}to{opacity:1}}
     </style>
   </defs>
   <rect width="720" height="160" fill="#080d1a" rx="14"/>
@@ -664,8 +664,8 @@ Insert a node at any position. Handle head/tail as edge cases.
       <polygon points="0 0, 8 4, 0 8" fill="#38bdf8"/>
     </marker>
     <style>
-      .ins-node{animation:dropDown 0.7s cubic-bezier(0.34,1.56,0.64,1) both}
-      @keyframes dropDown{from{opacity:0;transform:translateY(-50px)}to{opacity:1;transform:translateY(0)}}
+      .ins-node{animation:dropDown 0.7s cubic-bezier(0.34,1.56,0.64,1) forwards}
+      @keyframes dropDown{from{opacity:1;transform:translateY(-50px)}to{opacity:1;transform:translateY(0)}}
     </style>
   </defs>
   <rect width="720" height="190" fill="#080d1a" rx="14"/>
@@ -766,11 +766,11 @@ Reverse all pointers in a single O(n) pass — pure pointer magic!
       <polygon points="0 0, 8 4, 0 8" fill="#f472b6"/>
     </marker>
     <style>
-      .rev-arrow{animation:reverseFlow 0.5s ease both}
+      .rev-arrow{animation:reverseFlow 0.5s ease forwards}
       .rev-arrow:nth-child(1){animation-delay:0.3s}
       .rev-arrow:nth-child(2){animation-delay:0.6s}
       .rev-arrow:nth-child(3){animation-delay:0.9s}
-      @keyframes reverseFlow{from{opacity:0;stroke-dashoffset:50}to{opacity:1;stroke-dashoffset:0}}
+      @keyframes reverseFlow{from{opacity:1;stroke-dashoffset:25}to{opacity:1;stroke-dashoffset:0}}
     </style>
   </defs>
   <rect width="720" height="230" fill="#080d1a" rx="14"/>
@@ -1014,7 +1014,7 @@ public boolean hasLoop() {
   <defs>
     <style>
       .row-hover{transition:fill 0.3s ease}
-      .bar{animation:growBar 1s ease both}
+      .bar{animation:growBar 1s ease forwards}
       .bar:nth-child(1){animation-delay:0.1s}
       .bar:nth-child(2){animation-delay:0.2s}
       .bar:nth-child(3){animation-delay:0.3s}
