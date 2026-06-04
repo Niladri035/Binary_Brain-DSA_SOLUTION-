@@ -42,6 +42,9 @@ public class LinkedList {
         length++;
     }
 
+    //Remove element from the last of the Linked List
+    
+
 
 
 

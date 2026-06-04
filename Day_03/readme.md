@@ -16,19 +16,22 @@
       <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
       <feMerge><feMergeNode in="coloredBlur"/><feMergeNode in="SourceGraphic"/></feMerge>
     </filter>
+    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
+      <path d="M0,0 L0,6 L8,3 z" fill="#a78bfa"/>
+    </marker>
     <style>
       .node-box { animation: pulse 2s ease-in-out infinite alternate; }
       .arrow { animation: slideIn 1.5s ease-out forwards; }
       .title-text { animation: fadeIn 1s ease-in forwards; }
       @keyframes pulse { from { opacity:0.7; } to { opacity:1; } }
       @keyframes fadeIn { from { opacity:0; transform: translateY(-10px); } to { opacity:1; transform: translateY(0); } }
-      .chain-node { animation: chainPop 0.4s ease-out both; }
+      .chain-node { animation: chainPop 0.4s ease-out forwards; }
       .chain-node:nth-child(1) { animation-delay: 0.1s; }
       .chain-node:nth-child(2) { animation-delay: 0.3s; }
       .chain-node:nth-child(3) { animation-delay: 0.5s; }
       .chain-node:nth-child(4) { animation-delay: 0.7s; }
       .chain-node:nth-child(5) { animation-delay: 0.9s; }
-      @keyframes chainPop { from { opacity:0; transform: scale(0.5); } to { opacity:1; transform: scale(1); } }
+      @keyframes chainPop { from { opacity:1; transform: scale(0.5); } to { opacity:1; transform: scale(1); } }
     </style>
   </defs>
   <!-- Background -->
@@ -57,11 +60,7 @@
     <rect x="-30" y="-20" width="60" height="40" rx="8" fill="url(#nodeGrad)" filter="url(#glow)"/>
     <text x="0" y="5" text-anchor="middle" fill="white" font-family="monospace" font-size="14" font-weight="bold">40</text>
   </g>
-  <defs>
-    <marker id="arr" markerWidth="8" markerHeight="8" refX="6" refY="3" orient="auto">
-      <path d="M0,0 L0,6 L8,3 z" fill="#a78bfa"/>
-    </marker>
-  </defs>
+
   <!-- Title -->
   <text x="540" y="65" text-anchor="middle" fill="#a78bfa" font-family="Georgia, serif" font-size="38" font-weight="bold" filter="url(#glow)" class="title-text">LinkedList</text>
   <text x="540" y="100" text-anchor="middle" fill="#e2e8f0" font-family="Georgia, serif" font-size="18" class="title-text">Data Structures in Java</text>
