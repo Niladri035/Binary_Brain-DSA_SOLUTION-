@@ -3,26 +3,23 @@ import java.util.Arrays;
 public class FindMaxMin {
 
     public static int[] findMaxMin(int[] myList) {
-
-        // Edge case: empty array
-        if (myList == null || myList.length == 0) {
-            return new int[]{};
+        if(myList==null || myList.length == 0){
+            return new int []{};
         }
-
-        int max = myList[0];  // start with first element
-        int min = myList[0];  // start with first element
-
-        for (int i = 1; i < myList.length; i++) {
-            if (myList[i] > max) {
-                max = myList[i];  // found a new max
+        int max=myList[0];
+        int min = myList[0];
+        for(int i=1;i<myList.length;i++){
+            if(myList[i]>max){
+                max=myList[i];
             }
-            if (myList[i] < min) {
-                min = myList[i];  // found a new min
+            if(myList[i]<min){
+                min=myList[i];
             }
         }
+        return new int[]{min, max};
+        }
+    
 
-        return new int[]{max, min};
-    }
 
     // ── TEST ──────────────────────────────────────────────
     public static void main(String[] args) {
