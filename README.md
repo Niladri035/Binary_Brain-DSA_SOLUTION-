@@ -741,6 +741,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0031-next-permutation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0031-next-permutation) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
+| [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -754,6 +755,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
+| [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
@@ -764,4 +766,24 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
+## Binary Search
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
+## Binary Indexed Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
+## Segment Tree
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
+## Merge Sort
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
+## Ordered Set
+|  |
+| ------- |
+| [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 <!---LeetCode Topics End-->
