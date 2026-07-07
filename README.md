@@ -739,6 +739,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0152-maximum-product-subarray) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
@@ -749,6 +750,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0031-next-permutation) |
+| [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -762,6 +764,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Sorting
 |  |
 | ------- |
+| [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
 | [1288-remove-covered-intervals](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1288-remove-covered-intervals) |
