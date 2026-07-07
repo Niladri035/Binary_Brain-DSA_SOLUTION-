@@ -797,4 +797,8 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
+## Math
+|  |
+| ------- |
+| [3754-concatenate-non-zero-digits-and-multiply-by-sum-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3754-concatenate-non-zero-digits-and-multiply-by-sum-i) |
 <!---LeetCode Topics End-->
