@@ -755,6 +755,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 | [1288-remove-covered-intervals](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 ## Two Pointers
 |  |
