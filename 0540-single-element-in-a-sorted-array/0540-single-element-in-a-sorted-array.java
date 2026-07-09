@@ -1,22 +1,13 @@
-import java.util.HashMap;
-
 class Solution {
     public int singleNonDuplicate(int[] nums) {
-
-        HashMap<Integer, Integer> map = new HashMap<>();
-
-        // Count frequency
-        for (int num : nums) {
-            map.put(num, map.getOrDefault(num, 0) + 1);
+        int left = 0, right = nums.length-1;
+        while(left < right){
+            int mid = (left + right)/2;
+            if( (mid % 2 == 0 && nums[mid] == nums[mid +1]) || (mid %2 == 1 && nums[mid] == nums[mid - 1]) )
+                left = mid + 1;
+            else
+                right = mid;
         }
-
-        // Find the element with frequency 1
-        for (int num : nums) {
-            if (map.get(num) == 1) {
-                return num;
-            }
-        }
-
-        return -1;
-    }
+        return nums[left];
+    }   
 }
