@@ -755,6 +755,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
@@ -803,6 +804,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0540-single-element-in-a-sorted-array) |
+| [0875-koko-eating-bananas](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3532-path-existence-queries-in-a-graph-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
