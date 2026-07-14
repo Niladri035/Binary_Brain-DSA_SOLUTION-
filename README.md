@@ -746,6 +746,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0031-next-permutation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0031-next-permutation) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
@@ -787,6 +788,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 ## Sorting
@@ -806,6 +808,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0035-search-insert-position) |
