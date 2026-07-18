@@ -768,6 +768,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1331-rank-transform-of-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1331-rank-transform-of-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3532-path-existence-queries-in-a-graph-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3532-path-existence-queries-in-a-graph-i) |
@@ -861,6 +862,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0069-sqrtx](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0069-sqrtx) |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -891,6 +893,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Number Theory
 |  |
 | ------- |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3658-gcd-of-odd-and-even-sums) |
