@@ -763,6 +763,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0875-koko-eating-bananas) |
+| [1260-shift-2d-grid](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
 | [1288-remove-covered-intervals](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
@@ -860,6 +861,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Matrix
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
 |  |
@@ -908,6 +910,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Simulation
 |  |
 | ------- |
+| [1260-shift-2d-grid](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1260-shift-2d-grid) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Combinatorics
 |  |
