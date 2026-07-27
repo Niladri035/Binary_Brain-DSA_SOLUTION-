@@ -878,6 +878,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0050-powx-n](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0069-sqrtx) |
+| [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -911,6 +912,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Enumeration
@@ -948,6 +950,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0050-powx-n) |
+| [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
 ## Backtracking
 |  |
 | ------- |
