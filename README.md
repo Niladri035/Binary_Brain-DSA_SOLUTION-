@@ -793,6 +793,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Hash Table
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
@@ -896,6 +897,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## String
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -959,6 +961,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Backtracking
 |  |
 | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0040-combination-sum-ii) |
