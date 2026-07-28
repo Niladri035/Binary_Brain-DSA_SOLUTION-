@@ -760,6 +760,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0162-find-peak-element) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
+| [0216-combination-sum-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0410-split-array-largest-sum) |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
@@ -961,6 +962,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0040-combination-sum-ii) |
+| [0216-combination-sum-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
