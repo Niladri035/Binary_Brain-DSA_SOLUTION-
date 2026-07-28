@@ -1,40 +1,29 @@
-import java.util.*;
-
 class Solution {
+    public void solve(int i,int t,int [] arr, List<Integer> ds , List<List<Integer>> ans ){
 
-    List<List<Integer>> ans = new ArrayList<>();
+        if(i == arr.length){
+            if(t == 0 ){
+                ans.add(new ArrayList<>(ds));
+            }
+            return;
+        }
 
+        if(arr[i] <= t) {
+            ds.add(arr[i]);
+            solve(i,t-arr[i],arr,ds,ans);
+            ds.remove(ds.size()-1);
+        }
+
+        solve(i+1,t,arr,ds,ans);
+
+    }
     public List<List<Integer>> combinationSum(int[] candidates, int target) {
+        List<Integer> ds = new ArrayList<>();
+        List<List<Integer>> ans = new ArrayList<>();
 
-        backtrack(candidates, target, 0, new ArrayList<>());
+        solve(0,target,candidates,ds,ans);
+
 
         return ans;
-    }
-
-    private void backtrack(int[] arr,
-                           int target,
-                           int index,
-                           List<Integer> current) {
-
-        // Combination found
-        if (target == 0) {
-            ans.add(new ArrayList<>(current));
-            return;
-        }
-
-        // Invalid case
-        if (target < 0 || index == arr.length) {
-            return;
-        }
-
-        // Take current number
-        current.add(arr[index]);
-        backtrack(arr, target - arr[index], index, current);
-
-        // Undo choice (Backtrack)
-        current.remove(current.size() - 1);
-
-        // Skip current number
-        backtrack(arr, target, index + 1, current);
     }
 }
