@@ -888,6 +888,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -903,6 +904,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3501-maximize-active-section-with-trade-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -919,6 +921,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0410-split-array-largest-sum) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 ## Bit Manipulation
 |  |
