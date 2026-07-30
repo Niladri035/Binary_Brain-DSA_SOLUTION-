@@ -722,6 +722,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Depth-First Search
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0079-word-search) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2685-count-the-number-of-complete-components) |
 ## Breadth-First Search
@@ -753,6 +754,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0035-search-insert-position](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0035-search-insert-position) |
 | [0039-combination-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0079-word-search) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0128-longest-consecutive-sequence) |
@@ -879,6 +881,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Matrix
 |  |
 | ------- |
+| [0079-word-search](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0079-word-search) |
 | [1260-shift-2d-grid](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
 ## Math
@@ -904,6 +907,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
+| [0079-word-search](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -975,6 +979,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0040-combination-sum-ii) |
+| [0079-word-search](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
