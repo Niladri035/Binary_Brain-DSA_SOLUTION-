@@ -870,6 +870,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0410-split-array-largest-sum) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
@@ -903,6 +904,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3499-maximize-active-section-with-trade-i) |
@@ -973,6 +975,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
 | [0039-combination-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0039-combination-sum) |
 | [0040-combination-sum-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0040-combination-sum-ii) |
+| [0131-palindrome-partitioning](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0131-palindrome-partitioning) |
 | [0216-combination-sum-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0216-combination-sum-iii) |
 ## Heap (Priority Queue)
 |  |
