@@ -765,6 +765,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0216-combination-sum-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -878,6 +879,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0131-palindrome-partitioning](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0410-split-array-largest-sum) |
+| [0486-predict-the-winner](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0486-predict-the-winner) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -893,6 +895,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0050-powx-n](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
@@ -977,6 +980,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0050-powx-n](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0050-powx-n) |
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
+| [0486-predict-the-winner](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
 | ------- |
@@ -995,4 +999,8 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3517-smallest-palindromic-rearrangement-i) |
+## Game Theory
+|  |
+| ------- |
+| [0486-predict-the-winner](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0486-predict-the-winner) |
 <!---LeetCode Topics End-->
