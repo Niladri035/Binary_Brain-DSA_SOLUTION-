@@ -906,6 +906,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0050-powx-n) |
 | [0069-sqrtx](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0069-sqrtx) |
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
@@ -1004,6 +1005,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0002-add-two-numbers) |
 | [0050-powx-n](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
@@ -1045,6 +1047,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0203-remove-linked-list-elements) |
 | [0707-design-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0707-design-linked-list) |
 ## Design
