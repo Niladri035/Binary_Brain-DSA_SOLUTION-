@@ -1005,6 +1005,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0050-powx-n](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0050-powx-n) |
+| [0203-remove-linked-list-elements](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
 | [0486-predict-the-winner](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0486-predict-the-winner) |
 ## Backtracking
@@ -1041,4 +1042,8 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1140-stone-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0203-remove-linked-list-elements](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0203-remove-linked-list-elements) |
 <!---LeetCode Topics End-->
