@@ -1049,6 +1049,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0002-add-two-numbers) |
 | [0203-remove-linked-list-elements](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0203-remove-linked-list-elements) |
+| [0328-odd-even-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0707-design-linked-list) |
 ## Design
 |  |
