@@ -801,6 +801,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0031-next-permutation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
 | [0876-middle-of-the-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -1063,6 +1064,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0328-odd-even-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0876-middle-of-the-linked-list) |
+| [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 ## Design
 |  |
 | ------- |
