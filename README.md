@@ -800,6 +800,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
@@ -811,6 +812,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0128-longest-consecutive-sequence) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1331-rank-transform-of-an-array) |
@@ -1063,6 +1065,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0002-add-two-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0160-intersection-of-two-linked-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0328-odd-even-linked-list) |
