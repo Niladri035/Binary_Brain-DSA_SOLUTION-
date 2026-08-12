@@ -800,6 +800,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0031-next-permutation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
+| [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -1005,6 +1006,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Stack
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 ## Monotonic Stack
 |  |
@@ -1017,6 +1019,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0050-powx-n](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0050-powx-n) |
 | [0203-remove-linked-list-elements](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0203-remove-linked-list-elements) |
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
+| [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
 | [0486-predict-the-winner](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0486-predict-the-winner) |
 ## Backtracking
 |  |
@@ -1061,6 +1064,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0002-add-two-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0002-add-two-numbers) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0203-remove-linked-list-elements](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0203-remove-linked-list-elements) |
+| [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0328-odd-even-linked-list) |
 | [0707-design-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0707-design-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0876-middle-of-the-linked-list) |
