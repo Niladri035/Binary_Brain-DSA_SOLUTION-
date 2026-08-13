@@ -785,6 +785,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
@@ -884,6 +885,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3501-maximize-active-section-with-trade-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3501-maximize-active-section-with-trade-ii) |
 ## Merge Sort
 |  |
@@ -893,6 +895,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2213-longest-substring-of-one-repeating-character) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -949,6 +952,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0079-word-search](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0079-word-search) |
 | [0131-palindrome-partitioning](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [2213-longest-substring-of-one-repeating-character](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
