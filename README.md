@@ -802,6 +802,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0031-next-permutation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0031-next-permutation) |
 | [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
 | [0141-linked-list-cycle](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0876-middle-of-the-linked-list) |
@@ -830,12 +831,14 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0004-median-of-two-sorted-arrays) |
+| [0148-sort-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 ## Sorting
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0628-maximum-product-of-three-numbers) |
@@ -891,6 +894,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Merge Sort
 |  |
 | ------- |
+| [0148-sort-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0148-sort-list) |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 ## Ordered Set
 |  |
@@ -1078,6 +1082,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0021-merge-two-sorted-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0025-reverse-nodes-in-k-group) |
 | [0141-linked-list-cycle](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0203-remove-linked-list-elements](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0203-remove-linked-list-elements) |
 | [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
