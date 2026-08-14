@@ -815,6 +815,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0128-longest-consecutive-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0128-longest-consecutive-sequence) |
+| [0138-copy-list-with-random-pointer](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0141-linked-list-cycle) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
@@ -1081,6 +1082,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0025-reverse-nodes-in-k-group) |
+| [0138-copy-list-with-random-pointer](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0138-copy-list-with-random-pointer) |
 | [0141-linked-list-cycle](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0160-intersection-of-two-linked-lists) |
