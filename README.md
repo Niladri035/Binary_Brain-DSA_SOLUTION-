@@ -761,6 +761,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0088-merge-sorted-array) |
 | [0128-longest-consecutive-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0128-longest-consecutive-sequence) |
+| [0136-single-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0162-find-peak-element) |
@@ -990,6 +991,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Bit Manipulation
 |  |
 | ------- |
+| [0136-single-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3514-number-of-unique-xor-triplets-ii) |
