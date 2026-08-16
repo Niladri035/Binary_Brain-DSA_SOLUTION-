@@ -786,6 +786,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -995,6 +996,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0136-single-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -1119,4 +1121,8 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
+## Trie
+|  |
+| ------- |
+| [1803-count-pairs-with-xor-in-a-range](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 <!---LeetCode Topics End-->
