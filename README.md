@@ -770,6 +770,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0216-combination-sum-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0216-combination-sum-iii) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
 | [0410-split-array-largest-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0455-assign-cookies) |
 | [0486-predict-the-winner](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0486-predict-the-winner) |
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0540-single-element-in-a-sorted-array) |
@@ -809,6 +810,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0148-sort-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0148-sort-list) |
 | [0160-intersection-of-two-linked-lists](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0160-intersection-of-two-linked-lists) |
 | [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
+| [0455-assign-cookies](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0876-middle-of-the-linked-list) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
@@ -846,6 +848,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0148-sort-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
+| [0455-assign-cookies](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0455-assign-cookies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0628-maximum-product-of-three-numbers) |
 | [1288-remove-covered-intervals](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1331-rank-transform-of-an-array) |
@@ -984,6 +987,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0410-split-array-largest-sum) |
+| [0455-assign-cookies](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0455-assign-cookies) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1125,4 +1129,8 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1803-count-pairs-with-xor-in-a-range) |
+## Quicksort
+|  |
+| ------- |
+| [0455-assign-cookies](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0455-assign-cookies) |
 <!---LeetCode Topics End-->
