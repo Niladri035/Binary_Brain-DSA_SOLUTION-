@@ -786,6 +786,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
+| [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -922,6 +923,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -944,6 +946,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1140-stone-game-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -1078,6 +1081,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1140-stone-game-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1510-stone-game-iv) |
+| [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
 ## Minimax
 |  |
 | ------- |
