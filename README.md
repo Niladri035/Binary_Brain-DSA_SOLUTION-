@@ -788,6 +788,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
+| [1710-maximum-units-on-a-truck](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -857,6 +858,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1288-remove-covered-intervals](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1288-remove-covered-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1710-maximum-units-on-a-truck](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1710-maximum-units-on-a-truck) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -996,6 +998,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0455-assign-cookies](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1710-maximum-units-on-a-truck](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1710-maximum-units-on-a-truck) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
