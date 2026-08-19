@@ -784,6 +784,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1288-remove-covered-intervals](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1288-remove-covered-intervals) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
 | [1331-rank-transform-of-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
@@ -831,6 +832,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0169-majority-element](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1331-rank-transform-of-an-array) |
+| [1386-cinema-seat-allocation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1386-cinema-seat-allocation) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -998,6 +1000,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0455-assign-cookies](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0860-lemonade-change) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
+| [1386-cinema-seat-allocation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1386-cinema-seat-allocation) |
 | [1710-maximum-units-on-a-truck](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1710-maximum-units-on-a-truck) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -1010,6 +1013,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0136-single-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0137-single-number-ii) |
 | [0231-power-of-two](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0231-power-of-two) |
+| [1386-cinema-seat-allocation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1386-cinema-seat-allocation) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1803-count-pairs-with-xor-in-a-range) |
 | [2220-minimum-bit-flips-to-convert-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2220-minimum-bit-flips-to-convert-number) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3514-number-of-unique-xor-triplets-ii) |
