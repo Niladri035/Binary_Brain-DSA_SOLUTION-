@@ -793,6 +793,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1710-maximum-units-on-a-truck](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1710-maximum-units-on-a-truck) |
 | [1752-check-if-array-is-sorted-and-rotated](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1803-count-pairs-with-xor-in-a-range](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1803-count-pairs-with-xor-in-a-range) |
+| [1872-stone-game-viii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -936,6 +937,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3336-find-the-number-of-subsequences-with-equal-gcd](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3336-find-the-number-of-subsequences-with-equal-gcd) |
 | [3534-path-existence-queries-in-a-graph-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3534-path-existence-queries-in-a-graph-ii) |
@@ -959,6 +961,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1872-stone-game-viii) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -998,6 +1001,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0410-split-array-largest-sum) |
 | [1140-stone-game-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1140-stone-game-ii) |
+| [1872-stone-game-viii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1872-stone-game-viii) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3312-sorted-gcd-pair-queries) |
 | [3756-concatenate-non-zero-digits-and-multiply-by-sum-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3756-concatenate-non-zero-digits-and-multiply-by-sum-ii) |
 ## Greedy
@@ -1105,16 +1109,19 @@ Use any solution here to learn — never submit it directly to judges.
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1872-stone-game-viii) |
 ## Minimax
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1872-stone-game-viii) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1872-stone-game-viii) |
 ## Linked List
 |  |
 | ------- |
