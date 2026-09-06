@@ -943,6 +943,7 @@ Use any solution here to learn — never submit it directly to judges.
 | ------- |
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0055-jump-game) |
+| [0115-distinct-subsequences](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0131-palindrome-partitioning) |
 | [0152-maximum-product-subarray](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0152-maximum-product-subarray) |
 | [0410-split-array-largest-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0410-split-array-largest-sum) |
@@ -1002,6 +1003,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0022-generate-parentheses](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0022-generate-parentheses) |
 | [0079-word-search](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0079-word-search) |
+| [0115-distinct-subsequences](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0115-distinct-subsequences) |
 | [0131-palindrome-partitioning](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0131-palindrome-partitioning) |
 | [1081-smallest-subsequence-of-distinct-characters](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1081-smallest-subsequence-of-distinct-characters) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2213-longest-substring-of-one-repeating-character) |
