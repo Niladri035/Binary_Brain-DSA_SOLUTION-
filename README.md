@@ -723,6 +723,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0079-word-search) |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 | [2492-minimum-score-of-a-path-between-two-cities](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2492-minimum-score-of-a-path-between-two-cities) |
 | [2685-count-the-number-of-complete-components](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2685-count-the-number-of-complete-components) |
 | [3310-remove-methods-from-project](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3310-remove-methods-from-project) |
@@ -1204,4 +1205,12 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0455-assign-cookies) |
+## Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
+## Binary Tree
+|  |
+| ------- |
+| [2265-count-nodes-equal-to-average-of-subtree](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2265-count-nodes-equal-to-average-of-subtree) |
 <!---LeetCode Topics End-->
