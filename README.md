@@ -779,6 +779,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0493-reverse-pairs](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0493-reverse-pairs) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0628-maximum-product-of-three-numbers) |
+| [0835-image-overlap](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0835-image-overlap) |
 | [0860-lemonade-change](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0877-stone-game) |
@@ -970,6 +971,7 @@ Use any solution here to learn — never submit it directly to judges.
 |  |
 | ------- |
 | [0079-word-search](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0079-word-search) |
+| [0835-image-overlap](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0835-image-overlap) |
 | [1260-shift-2d-grid](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1260-shift-2d-grid) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3568-minimum-moves-to-clean-the-classroom) |
