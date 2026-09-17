@@ -792,6 +792,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1386-cinema-seat-allocation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1386-cinema-seat-allocation) |
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
 | [1710-maximum-units-on-a-truck](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1710-maximum-units-on-a-truck) |
@@ -853,6 +854,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0229-majority-element-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0229-majority-element-ii) |
 | [1331-rank-transform-of-an-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1386-cinema-seat-allocation) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -919,6 +921,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0540-single-element-in-a-sorted-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0540-single-element-in-a-sorted-array) |
 | [0875-koko-eating-bananas](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0875-koko-eating-bananas) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1482-minimum-number-of-days-to-make-m-bouquets) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3312-sorted-gcd-pair-queries](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3312-sorted-gcd-pair-queries) |
@@ -961,6 +964,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [1140-stone-game-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1140-stone-game-ii) |
 | [1301-number-of-paths-with-max-score](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1301-number-of-paths-with-max-score) |
 | [1406-stone-game-iii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1406-stone-game-iii) |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1510-stone-game-iv](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -1213,6 +1217,7 @@ Use any solution here to learn — never submit it directly to judges.
 ## Sliding Window
 |  |
 | ------- |
+| [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Trie
