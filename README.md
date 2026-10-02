@@ -784,6 +784,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0860-lemonade-change](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0877-stone-game) |
+| [0941-valid-mountain-array](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0941-valid-mountain-array) |
 | [1089-duplicate-zeros](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1260-shift-2d-grid) |
