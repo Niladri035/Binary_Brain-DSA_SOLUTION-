@@ -784,6 +784,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0860-lemonade-change](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0860-lemonade-change) |
 | [0875-koko-eating-bananas](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0875-koko-eating-bananas) |
 | [0877-stone-game](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0877-stone-game) |
+| [1089-duplicate-zeros](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1140-stone-game-ii) |
 | [1260-shift-2d-grid](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1260-shift-2d-grid) |
 | [1283-find-the-smallest-divisor-given-a-threshold](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1283-find-the-smallest-divisor-given-a-threshold) |
@@ -838,6 +839,7 @@ Use any solution here to learn — never submit it directly to judges.
 | [0234-palindrome-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0455-assign-cookies) |
 | [0876-middle-of-the-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/1089-duplicate-zeros) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/2472-maximum-number-of-non-overlapping-palindrome-substrings) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Niladri035/Binary_Brain-DSA_SOLUTION-/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
